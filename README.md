@@ -46,3 +46,4 @@ At ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Aliquam vesti
 REBASE PRACTICE
 ---------------
 This is a new sentece on rebase branch 1.
+Second commit sentence on rebase branch 1.
